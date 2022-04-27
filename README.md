@@ -4,7 +4,6 @@
 This application is designed to demonstrate an understanding of fundamental architecture of e-commerce websites. The goal is to configure Sequelize to interact with a MySQL database - building the back end of an e-commerce site. 
 
 ## Table of Contents 
-- [Backing E-Comm - Homework 13](#backing-e-comm---homework-13)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [User Story](#user-story)
@@ -46,9 +45,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Demo 
 * [Category Route Walkthrough](https://drive.google.com/file/d/1LwZIm48rgxHSH4MilHmKJZZs7G2V7CKv/view?usp=sharing)
-* [Product Route Walkthrough]()
+* [Product Route Walkthrough](https://drive.google.com/file/d/1nzrb_yGz6yG5moV5GNP3cEj8NA1HK0-m/view?usp=sharing)
 * [Tag Route Walkthrough](https://drive.google.com/file/d/1o13LQHujvt-0zdL87Mg1XPhBYP6ZCohT/view?usp=sharing)
 
 ## Contributors
 * [Janelle Phalon](https://github.com/janellephalon) - Columbia University Coding Bootcamp 
-* [Start Code](https://github.com/coding-boot-camp/fantastic-umbrella) 
+* [Starter Code](https://github.com/coding-boot-camp/fantastic-umbrella) 
